@@ -15,7 +15,7 @@ I'm a Python and Machine Learning engineer based in Chennai, building production
 
 - 🧠 Currently a **Gen AI Engineer at Zgrow**, architecting AI365 — an LLM-powered education platform with multi-step reasoning, RAG, and tool-calling workflows.
 - 🩺 Founder of **HIRA**, an AI health-coaching platform using a LangGraph tool-calling agent grounded in users' own logged health data.
-- 🏗️ Founder of **House of Sri**, where I previously worked as a Full-Stack Developer building secure REST APIs and authentication systems.
+- 🏗️ Full stack developer at **House of Sri**, where I previously worked on building secure REST APIs and authentication systems.
 - 📄 Published researcher — *HIRA: Intelligent Healthcare Chatbot* (FMDB 2024), and presented a **DR-TB Detection System** at AIIMS Delhi 2025.
 - 🎓 B.Tech in Computer Science, SRM IST Ramapuram (CGPA 9.3/10).
 
